@@ -55,7 +55,7 @@ while ($true) {
 Write-Output 'Building the manifest from validated full-duration local videos.'
 $manifestText = & (Join-Path $PSScriptRoot 'build-subway-manifest.ps1') -WorkDirectory $workRoot -Ffmpeg $Ffmpeg -Ffprobe $Ffprobe
 if (-not $?) { throw 'Cannot construct the validated manifest.' }
-$manifestText = ($manifestText -join "`n") + "`n"
+$manifestText = ($manifestText -join "`n").Replace("`r`n", "`n") + "`n"
 $manifest = $manifestText | ConvertFrom-Json
 # Do not overwrite edits made while the video was processing.
 if ((git rev-parse HEAD) -ne $baselineCommit -or (git status --porcelain) -or
