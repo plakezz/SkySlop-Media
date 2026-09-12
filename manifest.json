@@ -1,5 +1,118 @@
 {
-  "schemaVersion": 1,
-  "revision": 0,
-  "assets": {}
+    "schemaVersion":  1,
+    "revision":  1,
+    "assets":  {
+                   "subway_surfers_base":  {
+                                               "type":  "video",
+                                               "role":  "base",
+                                               "container":  "mp4",
+                                               "codec":  "h264",
+                                               "width":  854,
+                                               "height":  480,
+                                               "framesPerSecond":  30,
+                                               "hasAudio":  false,
+                                               "loop":  true,
+                                               "sourceUrl":  "https://www.youtube.com/watch?v=pQBQ2rYgmlU",
+                                               "durationSeconds":  42775,
+                                               "sizeBytes":  4224937940,
+                                               "parts":  [
+                                                             {
+                                                                 "url":  "https://github.com/plakezz/SkySlop-Media/releases/download/subway-base-v1/subway-base-v1-part-000.mp4",
+                                                                 "sizeBytes":  353838671,
+                                                                 "sha256":  "93da06c58146c564f252f6284461f845b8d20064dfa5fbc6159366117c6df783",
+                                                                 "startSeconds":  0,
+                                                                 "durationSeconds":  3600,
+                                                                 "frameCount":  108000
+                                                             },
+                                                             {
+                                                                 "url":  "https://github.com/plakezz/SkySlop-Media/releases/download/subway-base-v1/subway-base-v1-part-001.mp4",
+                                                                 "sizeBytes":  354730229,
+                                                                 "sha256":  "dad5860b7c3d1b6007f7174e51a69f596c26891d74a4c5fe34d4462084391af1",
+                                                                 "startSeconds":  3600,
+                                                                 "durationSeconds":  3600,
+                                                                 "frameCount":  108000
+                                                             },
+                                                             {
+                                                                 "url":  "https://github.com/plakezz/SkySlop-Media/releases/download/subway-base-v1/subway-base-v1-part-002.mp4",
+                                                                 "sizeBytes":  356428997,
+                                                                 "sha256":  "61483f80c744c7f1ee98e6bcac3c7804d8b29830849221225b13ebccc5683dde",
+                                                                 "startSeconds":  7200,
+                                                                 "durationSeconds":  3600,
+                                                                 "frameCount":  108000
+                                                             },
+                                                             {
+                                                                 "url":  "https://github.com/plakezz/SkySlop-Media/releases/download/subway-base-v1/subway-base-v1-part-003.mp4",
+                                                                 "sizeBytes":  354819588,
+                                                                 "sha256":  "863e3c4617a16990e6c55191e8192dd7921a55d8e6b742b65ef8855d5fe64739",
+                                                                 "startSeconds":  10800,
+                                                                 "durationSeconds":  3600,
+                                                                 "frameCount":  108000
+                                                             },
+                                                             {
+                                                                 "url":  "https://github.com/plakezz/SkySlop-Media/releases/download/subway-base-v1/subway-base-v1-part-004.mp4",
+                                                                 "sizeBytes":  354006026,
+                                                                 "sha256":  "7662c215dae68e8198091286b6750b4408b3d7d38d373f00b65115e8a6506989",
+                                                                 "startSeconds":  14400,
+                                                                 "durationSeconds":  3600,
+                                                                 "frameCount":  108000
+                                                             },
+                                                             {
+                                                                 "url":  "https://github.com/plakezz/SkySlop-Media/releases/download/subway-base-v1/subway-base-v1-part-005.mp4",
+                                                                 "sizeBytes":  355446829,
+                                                                 "sha256":  "dc10b4c8fc6a2931acff2c59b7fbd3e51d4dad1886b54d6a18f18fea715a68c8",
+                                                                 "startSeconds":  18000,
+                                                                 "durationSeconds":  3600,
+                                                                 "frameCount":  108000
+                                                             },
+                                                             {
+                                                                 "url":  "https://github.com/plakezz/SkySlop-Media/releases/download/subway-base-v1/subway-base-v1-part-006.mp4",
+                                                                 "sizeBytes":  353445192,
+                                                                 "sha256":  "b5d72a4bd41dc550959bd17956d5b2df4bdad339c4c1c04fe565d531c6b5072c",
+                                                                 "startSeconds":  21600,
+                                                                 "durationSeconds":  3600,
+                                                                 "frameCount":  108000
+                                                             },
+                                                             {
+                                                                 "url":  "https://github.com/plakezz/SkySlop-Media/releases/download/subway-base-v1/subway-base-v1-part-007.mp4",
+                                                                 "sizeBytes":  354616404,
+                                                                 "sha256":  "ff8a28497d2dfa46d8396472dbd7cdf7c895b3c68b8a1685eb96f8b6396808af",
+                                                                 "startSeconds":  25200,
+                                                                 "durationSeconds":  3600,
+                                                                 "frameCount":  108000
+                                                             },
+                                                             {
+                                                                 "url":  "https://github.com/plakezz/SkySlop-Media/releases/download/subway-base-v1/subway-base-v1-part-008.mp4",
+                                                                 "sizeBytes":  359015559,
+                                                                 "sha256":  "4652db1418de99fdd8bb2861c6782b0cf3476eb6ea19c050ab178cb788a7d7f9",
+                                                                 "startSeconds":  28800,
+                                                                 "durationSeconds":  3600,
+                                                                 "frameCount":  108000
+                                                             },
+                                                             {
+                                                                 "url":  "https://github.com/plakezz/SkySlop-Media/releases/download/subway-base-v1/subway-base-v1-part-009.mp4",
+                                                                 "sizeBytes":  355078570,
+                                                                 "sha256":  "4cee2bb8c885395db702740acc285a3ece4ce24fd88e4aa8b8395c587be4f82e",
+                                                                 "startSeconds":  32400,
+                                                                 "durationSeconds":  3600,
+                                                                 "frameCount":  108000
+                                                             },
+                                                             {
+                                                                 "url":  "https://github.com/plakezz/SkySlop-Media/releases/download/subway-base-v1/subway-base-v1-part-010.mp4",
+                                                                 "sizeBytes":  360254137,
+                                                                 "sha256":  "1abb768d7c9d9284e1247df8fbc593e816dd430058dbf7bd60c51ac45e9fe998",
+                                                                 "startSeconds":  36000,
+                                                                 "durationSeconds":  3600,
+                                                                 "frameCount":  108000
+                                                             },
+                                                             {
+                                                                 "url":  "https://github.com/plakezz/SkySlop-Media/releases/download/subway-base-v1/subway-base-v1-part-011.mp4",
+                                                                 "sizeBytes":  313257738,
+                                                                 "sha256":  "70b0acd77c98ad1cdb674189e5c440937d82c712d8bd1f72f2f341d0b87b930d",
+                                                                 "startSeconds":  39600,
+                                                                 "durationSeconds":  3175,
+                                                                 "frameCount":  95250
+                                                             }
+                                                         ]
+                                           }
+               }
 }
