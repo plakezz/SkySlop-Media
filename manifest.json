@@ -1,118 +1,534 @@
 {
-    "schemaVersion":  1,
-    "revision":  1,
-    "assets":  {
-                   "subway_surfers_base":  {
-                                               "type":  "video",
-                                               "role":  "base",
-                                               "container":  "mp4",
-                                               "codec":  "h264",
-                                               "width":  854,
-                                               "height":  480,
-                                               "framesPerSecond":  30,
-                                               "hasAudio":  false,
-                                               "loop":  true,
-                                               "sourceUrl":  "https://www.youtube.com/watch?v=pQBQ2rYgmlU",
-                                               "durationSeconds":  42775,
-                                               "sizeBytes":  4224937940,
-                                               "parts":  [
-                                                             {
-                                                                 "url":  "https://github.com/plakezz/SkySlop-Media/releases/download/subway-base-v1/subway-base-v1-part-000.mp4",
-                                                                 "sizeBytes":  353838671,
-                                                                 "sha256":  "93da06c58146c564f252f6284461f845b8d20064dfa5fbc6159366117c6df783",
-                                                                 "startSeconds":  0,
-                                                                 "durationSeconds":  3600,
-                                                                 "frameCount":  108000
-                                                             },
-                                                             {
-                                                                 "url":  "https://github.com/plakezz/SkySlop-Media/releases/download/subway-base-v1/subway-base-v1-part-001.mp4",
-                                                                 "sizeBytes":  354730229,
-                                                                 "sha256":  "dad5860b7c3d1b6007f7174e51a69f596c26891d74a4c5fe34d4462084391af1",
-                                                                 "startSeconds":  3600,
-                                                                 "durationSeconds":  3600,
-                                                                 "frameCount":  108000
-                                                             },
-                                                             {
-                                                                 "url":  "https://github.com/plakezz/SkySlop-Media/releases/download/subway-base-v1/subway-base-v1-part-002.mp4",
-                                                                 "sizeBytes":  356428997,
-                                                                 "sha256":  "61483f80c744c7f1ee98e6bcac3c7804d8b29830849221225b13ebccc5683dde",
-                                                                 "startSeconds":  7200,
-                                                                 "durationSeconds":  3600,
-                                                                 "frameCount":  108000
-                                                             },
-                                                             {
-                                                                 "url":  "https://github.com/plakezz/SkySlop-Media/releases/download/subway-base-v1/subway-base-v1-part-003.mp4",
-                                                                 "sizeBytes":  354819588,
-                                                                 "sha256":  "863e3c4617a16990e6c55191e8192dd7921a55d8e6b742b65ef8855d5fe64739",
-                                                                 "startSeconds":  10800,
-                                                                 "durationSeconds":  3600,
-                                                                 "frameCount":  108000
-                                                             },
-                                                             {
-                                                                 "url":  "https://github.com/plakezz/SkySlop-Media/releases/download/subway-base-v1/subway-base-v1-part-004.mp4",
-                                                                 "sizeBytes":  354006026,
-                                                                 "sha256":  "7662c215dae68e8198091286b6750b4408b3d7d38d373f00b65115e8a6506989",
-                                                                 "startSeconds":  14400,
-                                                                 "durationSeconds":  3600,
-                                                                 "frameCount":  108000
-                                                             },
-                                                             {
-                                                                 "url":  "https://github.com/plakezz/SkySlop-Media/releases/download/subway-base-v1/subway-base-v1-part-005.mp4",
-                                                                 "sizeBytes":  355446829,
-                                                                 "sha256":  "dc10b4c8fc6a2931acff2c59b7fbd3e51d4dad1886b54d6a18f18fea715a68c8",
-                                                                 "startSeconds":  18000,
-                                                                 "durationSeconds":  3600,
-                                                                 "frameCount":  108000
-                                                             },
-                                                             {
-                                                                 "url":  "https://github.com/plakezz/SkySlop-Media/releases/download/subway-base-v1/subway-base-v1-part-006.mp4",
-                                                                 "sizeBytes":  353445192,
-                                                                 "sha256":  "b5d72a4bd41dc550959bd17956d5b2df4bdad339c4c1c04fe565d531c6b5072c",
-                                                                 "startSeconds":  21600,
-                                                                 "durationSeconds":  3600,
-                                                                 "frameCount":  108000
-                                                             },
-                                                             {
-                                                                 "url":  "https://github.com/plakezz/SkySlop-Media/releases/download/subway-base-v1/subway-base-v1-part-007.mp4",
-                                                                 "sizeBytes":  354616404,
-                                                                 "sha256":  "ff8a28497d2dfa46d8396472dbd7cdf7c895b3c68b8a1685eb96f8b6396808af",
-                                                                 "startSeconds":  25200,
-                                                                 "durationSeconds":  3600,
-                                                                 "frameCount":  108000
-                                                             },
-                                                             {
-                                                                 "url":  "https://github.com/plakezz/SkySlop-Media/releases/download/subway-base-v1/subway-base-v1-part-008.mp4",
-                                                                 "sizeBytes":  359015559,
-                                                                 "sha256":  "4652db1418de99fdd8bb2861c6782b0cf3476eb6ea19c050ab178cb788a7d7f9",
-                                                                 "startSeconds":  28800,
-                                                                 "durationSeconds":  3600,
-                                                                 "frameCount":  108000
-                                                             },
-                                                             {
-                                                                 "url":  "https://github.com/plakezz/SkySlop-Media/releases/download/subway-base-v1/subway-base-v1-part-009.mp4",
-                                                                 "sizeBytes":  355078570,
-                                                                 "sha256":  "4cee2bb8c885395db702740acc285a3ece4ce24fd88e4aa8b8395c587be4f82e",
-                                                                 "startSeconds":  32400,
-                                                                 "durationSeconds":  3600,
-                                                                 "frameCount":  108000
-                                                             },
-                                                             {
-                                                                 "url":  "https://github.com/plakezz/SkySlop-Media/releases/download/subway-base-v1/subway-base-v1-part-010.mp4",
-                                                                 "sizeBytes":  360254137,
-                                                                 "sha256":  "1abb768d7c9d9284e1247df8fbc593e816dd430058dbf7bd60c51ac45e9fe998",
-                                                                 "startSeconds":  36000,
-                                                                 "durationSeconds":  3600,
-                                                                 "frameCount":  108000
-                                                             },
-                                                             {
-                                                                 "url":  "https://github.com/plakezz/SkySlop-Media/releases/download/subway-base-v1/subway-base-v1-part-011.mp4",
-                                                                 "sizeBytes":  313257738,
-                                                                 "sha256":  "70b0acd77c98ad1cdb674189e5c440937d82c712d8bd1f72f2f341d0b87b930d",
-                                                                 "startSeconds":  39600,
-                                                                 "durationSeconds":  3175,
-                                                                 "frameCount":  95250
-                                                             }
-                                                         ]
-                                           }
-               }
+  "schemaVersion": 1,
+  "revision": 2,
+  "assets": {
+    "subway_surfers_base": {
+      "type": "video",
+      "role": "base",
+      "container": "mp4",
+      "codec": "h264",
+      "width": 854,
+      "height": 480,
+      "framesPerSecond": 30,
+      "hasAudio": false,
+      "loop": true,
+      "sourceUrl": "https://www.youtube.com/watch?v=pQBQ2rYgmlU",
+      "durationSeconds": 42775,
+      "sizeBytes": 4224937940,
+      "parts": [
+        {
+          "url": "https://github.com/plakezz/SkySlop-Media/releases/download/subway-base-v1/subway-base-v1-part-000.mp4",
+          "sizeBytes": 353838671,
+          "sha256": "93da06c58146c564f252f6284461f845b8d20064dfa5fbc6159366117c6df783",
+          "startSeconds": 0,
+          "durationSeconds": 3600,
+          "frameCount": 108000
+        },
+        {
+          "url": "https://github.com/plakezz/SkySlop-Media/releases/download/subway-base-v1/subway-base-v1-part-001.mp4",
+          "sizeBytes": 354730229,
+          "sha256": "dad5860b7c3d1b6007f7174e51a69f596c26891d74a4c5fe34d4462084391af1",
+          "startSeconds": 3600,
+          "durationSeconds": 3600,
+          "frameCount": 108000
+        },
+        {
+          "url": "https://github.com/plakezz/SkySlop-Media/releases/download/subway-base-v1/subway-base-v1-part-002.mp4",
+          "sizeBytes": 356428997,
+          "sha256": "61483f80c744c7f1ee98e6bcac3c7804d8b29830849221225b13ebccc5683dde",
+          "startSeconds": 7200,
+          "durationSeconds": 3600,
+          "frameCount": 108000
+        },
+        {
+          "url": "https://github.com/plakezz/SkySlop-Media/releases/download/subway-base-v1/subway-base-v1-part-003.mp4",
+          "sizeBytes": 354819588,
+          "sha256": "863e3c4617a16990e6c55191e8192dd7921a55d8e6b742b65ef8855d5fe64739",
+          "startSeconds": 10800,
+          "durationSeconds": 3600,
+          "frameCount": 108000
+        },
+        {
+          "url": "https://github.com/plakezz/SkySlop-Media/releases/download/subway-base-v1/subway-base-v1-part-004.mp4",
+          "sizeBytes": 354006026,
+          "sha256": "7662c215dae68e8198091286b6750b4408b3d7d38d373f00b65115e8a6506989",
+          "startSeconds": 14400,
+          "durationSeconds": 3600,
+          "frameCount": 108000
+        },
+        {
+          "url": "https://github.com/plakezz/SkySlop-Media/releases/download/subway-base-v1/subway-base-v1-part-005.mp4",
+          "sizeBytes": 355446829,
+          "sha256": "dc10b4c8fc6a2931acff2c59b7fbd3e51d4dad1886b54d6a18f18fea715a68c8",
+          "startSeconds": 18000,
+          "durationSeconds": 3600,
+          "frameCount": 108000
+        },
+        {
+          "url": "https://github.com/plakezz/SkySlop-Media/releases/download/subway-base-v1/subway-base-v1-part-006.mp4",
+          "sizeBytes": 353445192,
+          "sha256": "b5d72a4bd41dc550959bd17956d5b2df4bdad339c4c1c04fe565d531c6b5072c",
+          "startSeconds": 21600,
+          "durationSeconds": 3600,
+          "frameCount": 108000
+        },
+        {
+          "url": "https://github.com/plakezz/SkySlop-Media/releases/download/subway-base-v1/subway-base-v1-part-007.mp4",
+          "sizeBytes": 354616404,
+          "sha256": "ff8a28497d2dfa46d8396472dbd7cdf7c895b3c68b8a1685eb96f8b6396808af",
+          "startSeconds": 25200,
+          "durationSeconds": 3600,
+          "frameCount": 108000
+        },
+        {
+          "url": "https://github.com/plakezz/SkySlop-Media/releases/download/subway-base-v1/subway-base-v1-part-008.mp4",
+          "sizeBytes": 359015559,
+          "sha256": "4652db1418de99fdd8bb2861c6782b0cf3476eb6ea19c050ab178cb788a7d7f9",
+          "startSeconds": 28800,
+          "durationSeconds": 3600,
+          "frameCount": 108000
+        },
+        {
+          "url": "https://github.com/plakezz/SkySlop-Media/releases/download/subway-base-v1/subway-base-v1-part-009.mp4",
+          "sizeBytes": 355078570,
+          "sha256": "4cee2bb8c885395db702740acc285a3ece4ce24fd88e4aa8b8395c587be4f82e",
+          "startSeconds": 32400,
+          "durationSeconds": 3600,
+          "frameCount": 108000
+        },
+        {
+          "url": "https://github.com/plakezz/SkySlop-Media/releases/download/subway-base-v1/subway-base-v1-part-010.mp4",
+          "sizeBytes": 360254137,
+          "sha256": "1abb768d7c9d9284e1247df8fbc593e816dd430058dbf7bd60c51ac45e9fe998",
+          "startSeconds": 36000,
+          "durationSeconds": 3600,
+          "frameCount": 108000
+        },
+        {
+          "url": "https://github.com/plakezz/SkySlop-Media/releases/download/subway-base-v1/subway-base-v1-part-011.mp4",
+          "sizeBytes": 313257738,
+          "sha256": "70b0acd77c98ad1cdb674189e5c440937d82c712d8bd1f72f2f341d0b87b930d",
+          "startSeconds": 39600,
+          "durationSeconds": 3175,
+          "frameCount": 95250
+        }
+      ]
+    },
+    "clip_ddebddb3aff92e83": {
+      "type": "video",
+      "role": "clip",
+      "name": "7i7qntbvckzxps3rv865ew-nwshaafp_fEdSun4N.mp4",
+      "container": "mp4",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "framesPerSecond": 60,
+      "hasAudio": true,
+      "audioTrackCount": 1,
+      "loop": false,
+      "durationSeconds": 12.1,
+      "sizeBytes": 13129461,
+      "sourceSha256": "ddebddb3aff92e83aa8ad1ed548178b9832bcf1f7f9c0a3cc3c6197a0da1271b",
+      "parts": [
+        {
+          "url": "https://github.com/plakezz/SkySlop-Media/releases/download/clips-v1/clip_ddebddb3aff92e83.mp4",
+          "sizeBytes": 13129461,
+          "sha256": "62748873ea2badc19e9fb26d1f989562125d8afe36e9eb83bbce6c7c64b3b920",
+          "startSeconds": 0,
+          "durationSeconds": 12.1,
+          "frameCount": 726
+        }
+      ]
+    },
+    "clip_73eb3f593eceb578": {
+      "type": "video",
+      "role": "clip",
+      "name": "adobe-express-xwapgnqusx4auvgcjg6nzgk-1-1_NEJk75HW.mp4",
+      "container": "mp4",
+      "codec": "h264",
+      "width": 1330,
+      "height": 720,
+      "framesPerSecond": 59.63300492610838,
+      "hasAudio": true,
+      "audioTrackCount": 1,
+      "loop": false,
+      "durationSeconds": 8.049234,
+      "sizeBytes": 7802551,
+      "sourceSha256": "73eb3f593eceb578646cee0942e948f2c8fe14ee9b2b5cb59a58ee16791fe517",
+      "parts": [
+        {
+          "url": "https://github.com/plakezz/SkySlop-Media/releases/download/clips-v1/clip_73eb3f593eceb578.mp4",
+          "sizeBytes": 7802551,
+          "sha256": "633d16bcab10a979826ce2e5b4c8ae71647bb666b527db3f80c0d21246ca5625",
+          "startSeconds": 0,
+          "durationSeconds": 8.049234,
+          "frameCount": 480
+        }
+      ]
+    },
+    "clip_4e3b511166cd6324": {
+      "type": "video",
+      "role": "clip",
+      "name": "clideo_editor_088d0d697cc949f9ba14e84107addfe6.mp4",
+      "container": "mp4",
+      "codec": "h264",
+      "width": 1280,
+      "height": 720,
+      "framesPerSecond": 30.006606321629317,
+      "hasAudio": true,
+      "audioTrackCount": 1,
+      "loop": false,
+      "durationSeconds": 8.398151,
+      "sizeBytes": 1520521,
+      "sourceSha256": "4e3b511166cd6324b21b7321645f29c998bc56c2525f096c5900dad20576b80d",
+      "parts": [
+        {
+          "url": "https://github.com/plakezz/SkySlop-Media/releases/download/clips-v1/clip_4e3b511166cd6324.mp4",
+          "sizeBytes": 1520521,
+          "sha256": "0d51435e61ec4bb8fe5d8116280a92a91255bc5836993a75b26362f9ada89adc",
+          "startSeconds": 0,
+          "durationSeconds": 8.398151,
+          "frameCount": 252
+        }
+      ]
+    },
+    "clip_55014ffb4d5df3ef": {
+      "type": "video",
+      "role": "clip",
+      "name": "clideo_editor_1440bf31f2504214a1802d4c9b8220bd.mp4",
+      "container": "mp4",
+      "codec": "h264",
+      "width": 1280,
+      "height": 720,
+      "framesPerSecond": 60,
+      "hasAudio": true,
+      "audioTrackCount": 1,
+      "loop": false,
+      "durationSeconds": 13.8,
+      "sizeBytes": 6274104,
+      "sourceSha256": "55014ffb4d5df3ef8ff1f374b82e51846a618c3a925b2f7c77e6332f834012cc",
+      "parts": [
+        {
+          "url": "https://github.com/plakezz/SkySlop-Media/releases/download/clips-v1/clip_55014ffb4d5df3ef.mp4",
+          "sizeBytes": 6274104,
+          "sha256": "a461196b8a5496ebc18c62ad5db7d3ecf14511aefc55088f9b5e10edaf4e4b38",
+          "startSeconds": 0,
+          "durationSeconds": 13.8,
+          "frameCount": 828
+        }
+      ]
+    },
+    "clip_f7bdf49593399aa5": {
+      "type": "video",
+      "role": "clip",
+      "name": "clideo_editor_164d350df70d4321996e460a258b4518.mp4",
+      "container": "mp4",
+      "codec": "h264",
+      "width": 1280,
+      "height": 720,
+      "framesPerSecond": 60,
+      "hasAudio": true,
+      "audioTrackCount": 1,
+      "loop": false,
+      "durationSeconds": 15.933333,
+      "sizeBytes": 5695270,
+      "sourceSha256": "f7bdf49593399aa52444018ad2e3c6dbd1d6b49b4b7ffdc4b6cb79dc33914c51",
+      "parts": [
+        {
+          "url": "https://github.com/plakezz/SkySlop-Media/releases/download/clips-v1/clip_f7bdf49593399aa5.mp4",
+          "sizeBytes": 5695270,
+          "sha256": "58d75b137997ec43870712e224cbfdda12cf6a0b48a1c3ba4808020bced3e462",
+          "startSeconds": 0,
+          "durationSeconds": 15.933333,
+          "frameCount": 956
+        }
+      ]
+    },
+    "clip_719d9fac13bbab6e": {
+      "type": "video",
+      "role": "clip",
+      "name": "clideo_editor_19e189cccd6b48de86db4b61781ff7c6.mp4",
+      "container": "mp4",
+      "codec": "h264",
+      "width": 1280,
+      "height": 720,
+      "framesPerSecond": 60,
+      "hasAudio": true,
+      "audioTrackCount": 1,
+      "loop": false,
+      "durationSeconds": 4.817,
+      "sizeBytes": 4568282,
+      "sourceSha256": "719d9fac13bbab6e47f4dce74ed8b3e2208710c390b75e30bb73885d2ae3f7f1",
+      "parts": [
+        {
+          "url": "https://github.com/plakezz/SkySlop-Media/releases/download/clips-v1/clip_719d9fac13bbab6e.mp4",
+          "sizeBytes": 4568282,
+          "sha256": "0c31a504d25c4bcd0994dfa3f7286ae479d5141292a584983f4b1a2711b7ccaf",
+          "startSeconds": 0,
+          "durationSeconds": 4.817,
+          "frameCount": 289
+        }
+      ]
+    },
+    "clip_15a7e8a60cba96d2": {
+      "type": "video",
+      "role": "clip",
+      "name": "clideo_editor_1cd1de546ded48b98f3b36ba93f4d966.mp4",
+      "container": "mp4",
+      "codec": "h264",
+      "width": 1280,
+      "height": 720,
+      "framesPerSecond": 60,
+      "hasAudio": true,
+      "audioTrackCount": 1,
+      "loop": false,
+      "durationSeconds": 15.283333,
+      "sizeBytes": 7096159,
+      "sourceSha256": "15a7e8a60cba96d2f1dfb105a112b419f12e4d78233581fb0668c7b05335a67d",
+      "parts": [
+        {
+          "url": "https://github.com/plakezz/SkySlop-Media/releases/download/clips-v1/clip_15a7e8a60cba96d2.mp4",
+          "sizeBytes": 7096159,
+          "sha256": "9056a2715d645a62ee21417c5f5f5523f5ac0b080e4c4dc409225920d622bc93",
+          "startSeconds": 0,
+          "durationSeconds": 15.283333,
+          "frameCount": 917
+        }
+      ]
+    },
+    "clip_ac4abaac219ff641": {
+      "type": "video",
+      "role": "clip",
+      "name": "clideo_editor_3777781877f74da5a0d41c31034306d6.mp4",
+      "container": "mp4",
+      "codec": "h264",
+      "width": 1280,
+      "height": 720,
+      "framesPerSecond": 60,
+      "hasAudio": true,
+      "audioTrackCount": 1,
+      "loop": false,
+      "durationSeconds": 11.166667,
+      "sizeBytes": 4900176,
+      "sourceSha256": "ac4abaac219ff64151dbe6ce51b1b7d4589eb5800003d5da6e4ff44a4405a0fb",
+      "parts": [
+        {
+          "url": "https://github.com/plakezz/SkySlop-Media/releases/download/clips-v1/clip_ac4abaac219ff641.mp4",
+          "sizeBytes": 4900176,
+          "sha256": "180cd732d78058d966cffcc7b12d76526c7100ceae91effcfbb1586273b0b74c",
+          "startSeconds": 0,
+          "durationSeconds": 11.166667,
+          "frameCount": 670
+        }
+      ]
+    },
+    "clip_e5c4d48c6cdd13a3": {
+      "type": "video",
+      "role": "clip",
+      "name": "clideo_editor_7e1a9672d14c4dae815b08a924c3693a.mp4",
+      "container": "mp4",
+      "codec": "h264",
+      "width": 1280,
+      "height": 720,
+      "framesPerSecond": 30,
+      "hasAudio": true,
+      "audioTrackCount": 1,
+      "loop": false,
+      "durationSeconds": 14.833333,
+      "sizeBytes": 4578646,
+      "sourceSha256": "e5c4d48c6cdd13a3b6cdd94c1441c37e278e815855a147d1303ffd4313363b59",
+      "parts": [
+        {
+          "url": "https://github.com/plakezz/SkySlop-Media/releases/download/clips-v1/clip_e5c4d48c6cdd13a3.mp4",
+          "sizeBytes": 4578646,
+          "sha256": "8d72f37b6619e0499abf01e2d98fb19e05fd16ded225bde7ddf6c57996f856cb",
+          "startSeconds": 0,
+          "durationSeconds": 14.833333,
+          "frameCount": 445
+        }
+      ]
+    },
+    "clip_5ad03b9049a76301": {
+      "type": "video",
+      "role": "clip",
+      "name": "clideo_editor_bddae712cc6d49c1bff9f81e549d342c.mp4",
+      "container": "mp4",
+      "codec": "h264",
+      "width": 1280,
+      "height": 720,
+      "framesPerSecond": 30,
+      "hasAudio": true,
+      "audioTrackCount": 1,
+      "loop": false,
+      "durationSeconds": 9.6,
+      "sizeBytes": 1643355,
+      "sourceSha256": "5ad03b9049a7630117be66037e374bd1fb5c5a48688fec9cb36b6d24632c4966",
+      "parts": [
+        {
+          "url": "https://github.com/plakezz/SkySlop-Media/releases/download/clips-v1/clip_5ad03b9049a76301.mp4",
+          "sizeBytes": 1643355,
+          "sha256": "157816a688491272f5c9885372010f6bd6764d96d4dd34d469ab72233c53a35a",
+          "startSeconds": 0,
+          "durationSeconds": 9.6,
+          "frameCount": 288
+        }
+      ]
+    },
+    "clip_6eb13e3348f6e66d": {
+      "type": "video",
+      "role": "clip",
+      "name": "clideo_editor_dc62754c8db146b88a430d0a8c902bbd.mp4",
+      "container": "mp4",
+      "codec": "h264",
+      "width": 1280,
+      "height": 720,
+      "framesPerSecond": 60,
+      "hasAudio": true,
+      "audioTrackCount": 1,
+      "loop": false,
+      "durationSeconds": 8.65,
+      "sizeBytes": 5418564,
+      "sourceSha256": "6eb13e3348f6e66dbf74aef12c6be41746c7b78e555499434f2b1e85156a5f9a",
+      "parts": [
+        {
+          "url": "https://github.com/plakezz/SkySlop-Media/releases/download/clips-v1/clip_6eb13e3348f6e66d.mp4",
+          "sizeBytes": 5418564,
+          "sha256": "8ae9b9334798953c34a4c26c47b973ba00ff44f6031c912f8285fb479c60fd6e",
+          "startSeconds": 0,
+          "durationSeconds": 8.65,
+          "frameCount": 519
+        }
+      ]
+    },
+    "clip_8da98912e09dd4a5": {
+      "type": "video",
+      "role": "clip",
+      "name": "gowlrjtlsag6sbnym-l2fg_Tdknne43.mp4",
+      "container": "mp4",
+      "codec": "h264",
+      "width": 1330,
+      "height": 720,
+      "framesPerSecond": 60,
+      "hasAudio": true,
+      "audioTrackCount": 1,
+      "loop": false,
+      "durationSeconds": 10.033333,
+      "sizeBytes": 13346391,
+      "sourceSha256": "8da98912e09dd4a518dba6125c1611d6cae23dc8bf80a41436fee2a9318cdffa",
+      "parts": [
+        {
+          "url": "https://github.com/plakezz/SkySlop-Media/releases/download/clips-v1/clip_8da98912e09dd4a5.mp4",
+          "sizeBytes": 13346391,
+          "sha256": "7342e291a889a7e18adcf93b0f03f6e8e325e911ada1835d8e64528b7e8f3694",
+          "startSeconds": 0,
+          "durationSeconds": 10.033333,
+          "frameCount": 602
+        }
+      ]
+    },
+    "clip_c5f57bbb3c756499": {
+      "type": "video",
+      "role": "clip",
+      "name": "i9accnmruis21nqqguknw_V2zHcMYH.mp4",
+      "container": "mp4",
+      "codec": "h264",
+      "width": 1370,
+      "height": 720,
+      "framesPerSecond": 60,
+      "hasAudio": true,
+      "audioTrackCount": 1,
+      "loop": false,
+      "durationSeconds": 19.083333,
+      "sizeBytes": 12754070,
+      "sourceSha256": "c5f57bbb3c756499f14f79103e9f678c0933d3fbca0db19b96b01f2a62ad98e6",
+      "parts": [
+        {
+          "url": "https://github.com/plakezz/SkySlop-Media/releases/download/clips-v1/clip_c5f57bbb3c756499.mp4",
+          "sizeBytes": 12754070,
+          "sha256": "d3a529cb1aba6e6234de49a1990894638687cc675844f11520fcf5cbb6832535",
+          "startSeconds": 0,
+          "durationSeconds": 19.083333,
+          "frameCount": 1145
+        }
+      ]
+    },
+    "clip_f6d5fc713cb26756": {
+      "type": "video",
+      "role": "clip",
+      "name": "Minecraft_26.1.2_-_7d842aea-5114-4527-ad11-ef6fe4e3528e.mp4",
+      "container": "mp4",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1016,
+      "framesPerSecond": 120,
+      "hasAudio": true,
+      "audioTrackCount": 6,
+      "loop": false,
+      "durationSeconds": 29.497333,
+      "sizeBytes": 23418387,
+      "sourceSha256": "f6d5fc713cb26756e03a19e6b99f500d346063db041defbc6148c8ab515a8e9f",
+      "parts": [
+        {
+          "url": "https://github.com/plakezz/SkySlop-Media/releases/download/clips-v1/clip_f6d5fc713cb26756.mp4",
+          "sizeBytes": 23418387,
+          "sha256": "c1fabcff616faed7e17dd01035458c864bab3d363ec20fb88fc77f24fadfb9f4",
+          "startSeconds": 0,
+          "durationSeconds": 29.497333,
+          "frameCount": 885
+        }
+      ]
+    },
+    "clip_89bac7cf7a4abb76": {
+      "type": "video",
+      "role": "clip",
+      "name": "uqbjzmtzz43vk3myck5wc2p_I5DErXjI.mp4",
+      "container": "mp4",
+      "codec": "h264",
+      "width": 1370,
+      "height": 720,
+      "framesPerSecond": 60,
+      "hasAudio": true,
+      "audioTrackCount": 1,
+      "loop": false,
+      "durationSeconds": 11.35,
+      "sizeBytes": 9422331,
+      "sourceSha256": "89bac7cf7a4abb7627ac075d8faecf6fe32db8f991371a66bef0642007f48ea0",
+      "parts": [
+        {
+          "url": "https://github.com/plakezz/SkySlop-Media/releases/download/clips-v1/clip_89bac7cf7a4abb76.mp4",
+          "sizeBytes": 9422331,
+          "sha256": "4f75451f22517880a6af75ee7c47bd3f8c22ce56bdadf8db21c891297fb432fe",
+          "startSeconds": 0,
+          "durationSeconds": 11.35,
+          "frameCount": 681
+        }
+      ]
+    },
+    "clip_b13f534dea879d77": {
+      "type": "video",
+      "role": "clip",
+      "name": "wvqyxmpb2e3sygryv7uzzg_kcP3Y0rs.mp4",
+      "container": "mp4",
+      "codec": "h264",
+      "width": 1370,
+      "height": 720,
+      "framesPerSecond": 60,
+      "hasAudio": true,
+      "audioTrackCount": 1,
+      "loop": false,
+      "durationSeconds": 13.6,
+      "sizeBytes": 12685465,
+      "sourceSha256": "b13f534dea879d776392e96c39fba7fdafea13a561f36ff26a80478e221109f1",
+      "parts": [
+        {
+          "url": "https://github.com/plakezz/SkySlop-Media/releases/download/clips-v1/clip_b13f534dea879d77.mp4",
+          "sizeBytes": 12685465,
+          "sha256": "8879610df0ff2ab2f30cbb3903dac517719fb8177af9bf56428a71f7ea188d6c",
+          "startSeconds": 0,
+          "durationSeconds": 13.6,
+          "frameCount": 816
+        }
+      ]
+    }
+  }
 }

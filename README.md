@@ -68,3 +68,22 @@ the publishing target bitrate).
 
 The manifest's whole-file SHA-256 verifies publication integrity. Do not require
 players to download a whole part just to check that hash before streaming.
+
+## Short clips
+
+Place original files in the local input folder `D:\SkySlop-Clips` for this machine.
+Short clips retain their original resolution, frame timing and audio. Run
+`scripts/prepare-clips.ps1` with explicit input/output directories and FFmpeg paths.
+It only relocates the MP4 index (`-c copy -movflags +faststart`), retains all audio
+tracks, compares SHA-256 for every compressed stream, and fully decodes the result
+for validation. Originals are never overwritten or removed.
+
+The first 16 clips are Release assets under `clips-v1`, indexed as video assets with
+`role: clip`. The player uses the first audio track (the mixed track for recordings
+with separate tracks). Future batches use a new versioned Release and an incremented
+manifest revision. Uploading alone is not enough: each clip must be registered in
+the index. The mod refreshes this index every five minutes or through `/sl media reload`,
+so adding indexed clips does not require rebuilding the mod.
+
+The base and prepared clips on D: are retained at the user's request. Publication
+verification does not imply permission to remove original inputs.
